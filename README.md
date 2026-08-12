@@ -66,19 +66,10 @@
 | [CodeAndDesignPatterns](https://github.com/praneethrudroji/CodeAndDesignPatterns) | Design pattern and clean code examples | C# |
 | [praneethrudroji.github.io](https://github.com/praneethrudroji/praneethrudroji.github.io) | Personal portfolio site | JavaScript |
 
-### 📊 GitHub in numbers
+### 🔥 Contribution streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=praneethrudroji&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethrudroji&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethrudroji&hide_border=true&theme=tokyonight" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praneethrudroji&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethrudroji&hide_border=true&theme=tokyonight" alt="Contribution streak" />
 </p>
 
 ---
